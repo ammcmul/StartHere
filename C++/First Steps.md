@@ -9,7 +9,8 @@
        More lines can follow.
     */
     
-      int main() {
+    int main()
+    {
        std::cout << "hello world" << std::endl; // comments can appear anywhere
        return 0;  // success status code
     }
